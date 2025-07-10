@@ -1,1 +1,1 @@
-# Python-5-
+File 9 contains Task 1: Create a Dictionary of Student Marks. In this i created a dictionary named dict, and added the names and the marks of the students.I used if statement which would give the marks of the student if the name is in dict; if the name is not found then it would print so.
